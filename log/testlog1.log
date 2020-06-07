@@ -1,0 +1,4 @@
+2020-06-07 13:37:33,835 [main] INFO PageObjectPattern - driver is intialized
+2020-06-07 13:37:33,848 [main] ERROR PageObjectPattern - abcd
+2020-06-07 13:37:33,848 [main] WARN PageObjectPattern - hi
+2020-06-07 13:37:33,849 [main] FATAL PageObjectPattern - shaajshk
